@@ -1,5 +1,5 @@
 # technologyx
-> by NoOne
+> Team: NoOne
 
 Learning notes of Machine Learn &amp; Deep Learning 
 
