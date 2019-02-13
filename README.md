@@ -1,7 +1,6 @@
 # technologyx
-> Team: NoOne
 
-Learning notes of Machine Learn &amp; Deep Learning 
+Learning notes of Machine Learning &amp; Deep Learning 
 
 # recsys(推荐系统)
 
